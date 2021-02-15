@@ -2,4 +2,4 @@
 
 una libreria simple creada para imagenes
 
-creada por alvaro124
+creada por alvacodes124
