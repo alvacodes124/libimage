@@ -1,0 +1,17 @@
+EXPORTS
+    _ZN3png5Image10saveToFileERKSs @1
+    _ZN3png5Image12getPixelsPtrEv @2
+    _ZN3png5Image12loadFromFileERKSs @3
+    _ZN3png5Image5emptyEv @4
+    _ZN3png5Image6createEjjPKh @5
+    _ZN3png5Image6createEjjRKNS_9png_colorE @6
+    _ZN3png5Image7setSizeEjj @7
+    _ZN3png5Image8setPixelEjjRKNS_9png_colorE @8
+    _ZN3png5ImageC1Ev @9
+    _ZN3png5ImageC2Ev @10
+    _ZN3png5ImageD0Ev @11
+    _ZN3png5ImageD1Ev @12
+    _ZN3png5ImageD2Ev @13
+    _ZNK3png5Image8getPixelEjj @14
+    _ZTIN3png5ImageE @15 DATA
+    _ZTVN3png5ImageE @16 DATA
